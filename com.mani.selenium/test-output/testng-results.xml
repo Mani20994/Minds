@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51106" started-at="2018-09-12T08:40:11Z" finished-at="2018-09-12T08:41:02Z">
+    <groups>
+    </groups>
+    <test name="Testing" duration-ms="14971" started-at="2018-09-12T08:40:11Z" finished-at="2018-09-12T08:40:26Z">
+      <class name="com.mani.selenium.Sample">
+        <test-method status="PASS" signature="start1()[pri:0, instance:com.mani.selenium.Sample@12cdcf4]" name="start1" duration-ms="14934" started-at="2018-09-12T08:40:11Z" finished-at="2018-09-12T08:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start1 -->
+      </class> <!-- com.mani.selenium.Sample -->
+    </test> <!-- Testing -->
+    <test name="Facebook" duration-ms="21051" started-at="2018-09-12T08:40:26Z" finished-at="2018-09-12T08:40:47Z">
+      <class name="com.mani.selenium.sample1">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.mani.selenium.sample1@37374a5e]" name="start" duration-ms="21044" started-at="2018-09-12T08:40:26Z" finished-at="2018-09-12T08:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- com.mani.selenium.sample1 -->
+    </test> <!-- Facebook -->
+    <test name="Autopractise" duration-ms="14944" started-at="2018-09-12T08:40:47Z" finished-at="2018-09-12T08:41:02Z">
+      <class name="com.mani.selenium.sample2">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.mani.selenium.sample2@192d3247]" name="start" duration-ms="14939" started-at="2018-09-12T08:40:47Z" finished-at="2018-09-12T08:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- com.mani.selenium.sample2 -->
+    </test> <!-- Autopractise -->
+  </suite> <!-- Suite -->
+</testng-results>
